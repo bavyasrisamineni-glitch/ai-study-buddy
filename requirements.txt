@@ -1,0 +1,11 @@
+streamlit==1.32.2
+transformers==4.38.2
+torch==2.2.1
+sentencepiece==0.1.99
+nltk==3.8.1
+SpeechRecognition==3.10.1
+pydub==0.25.1
+accelerate==0.27.2
+requests==2.31.0
+urllib3==2.2.1
+safetensors==0.4.2
